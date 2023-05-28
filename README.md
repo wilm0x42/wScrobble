@@ -6,9 +6,9 @@ a file is played.
 Mpv must be compiled with cplugin support.
 
 The emblems go as follows:
-* >= 3 plays: white emblem
-* >= 10 plays: blue emblem
-* >= 30 plays: violet emblem
+* `>= 3` plays: white emblem
+* `>= 10` plays: blue emblem
+* `>= 30` plays: violet emblem
 
 To read and manipulate the playcount value, the `gio` utility can be used as follows:
 
